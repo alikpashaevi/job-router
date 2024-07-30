@@ -6,9 +6,10 @@ const RootLayout = () => {
     <div className="root-layout">
       <header>
         <nav>
-          <h1>JobRo uter</h1>
+          <h1>Job Router</h1>
           <NavLink to="/">Home</NavLink>
           <NavLink to="about">About</NavLink>
+          <NavLink to="help">Help</NavLink>
         </nav>
       </header>
 
